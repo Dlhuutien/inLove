@@ -46,7 +46,7 @@ header hgroup {
     padding: .5em 3em;
     background-color: rgba(0, 0, 0, 0.2);
     z-index: 2;
-    background-image: url(/huwtien.github.io/IMG/img_background.jpg);
+    background-image: url(/IMG/img_background.jpg);
 }
 
 header .overlay {
